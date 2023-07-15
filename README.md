@@ -3,14 +3,14 @@ SOC Analyis Lab
 
 
 <h2>Description</h2>
-I created an at-home lab setup consisting of four parts using VMware. The setup involved two hypervisors(Windows 10 and a Linux Ubuntu Server) with LimaCharlie. Which serves as an End Point Detection system. This configuration provided a secure environment for testing malware and DoS attacks. With this setup, I was able to monitor and analyze SysLogs in real time, as well as establish customized detection and prevention rules.
+I created an at-home lab setup consisting of four parts using VMware. The setup involved two hypervisors (Windows 10 and a Linux Ubuntu Server) with LimaCharlie. Which serves as an end-point detection response system. This configuration provided a secure environment for testing malware and DoS attacks. With this setup, I was able to monitor and analyze SysLogs in real time, as well as establish customized detection and prevention rules.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>LimaCharlie<b/> 
-- <b>SLiver_Server<b/> 
+- <b>Sliver_Server Malware<b/> 
 - <b>SSH<b/>
 
   
